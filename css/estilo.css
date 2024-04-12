@@ -1,0 +1,12 @@
+.texto{
+    margin-top: 10%;
+    display: flex; 
+    justify-content: center;
+    color: black;
+}
+
+.texto1{
+    display: flex; 
+    justify-content: center;
+    color: black;
+}
